@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d106fa23-b452-49b1-9bd9-495fb40d1a3e" name="Changes" comment="" />
+    <list default="true" id="d106fa23-b452-49b1-9bd9-495fb40d1a3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Studendatabaseapp/StudenDatebasseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Studendatabaseapp/StudenDatebasseApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Studendatabaseapp/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Studendatabaseapp/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/emailapp/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/emailapp/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/emailapp/EmailApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/emailapp/EmailApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HnxHgn3udy2VCLdI5Zj0YwXF2e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,9 +40,44 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.StudenDatebasseApp">
+    <configuration name="EmailApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.emailapp.EmailApp" />
+      <module name="simpleprojects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.emailapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudenDatebasseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Studendatabaseapp.StudenDatebasseApp" />
+      <module name="simpleprojects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Studendatabaseapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudenDatebasseApp" />
+        <item itemvalue="Application.EmailApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,8 +86,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668934565284</updated>
+      <workItem from="1668934566715" duration="6516000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -47,5 +103,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Studendatabaseapp/StudenDatebasseApp.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
