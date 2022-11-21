@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d106fa23-b452-49b1-9bd9-495fb40d1a3e" name="Changes" comment="studentdatabase">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccount/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccount/BankAccountApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccount/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccount/IbaseRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccount/Savings.java" afterDir="false" />
+    <list default="true" id="d106fa23-b452-49b1-9bd9-495fb40d1a3e" name="Changes" comment="bankaccout">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccount/CSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccount/NewBankAccounts.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankaccount/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankaccount/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankaccount/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankaccount/BankAccountApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/damian/Java/simpleprojects/src/main/java/bankaccount"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/bankaccount" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.BankAccountApp">
     <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankaccount.BankAccountApp" />
@@ -102,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668934565284</updated>
       <workItem from="1668934566715" duration="9141000" />
-      <workItem from="1669029775190" duration="4988000" />
+      <workItem from="1669029775190" duration="8169000" />
     </task>
     <task id="LOCAL-00001" summary="studentdatabase">
       <created>1668941113825</created>
@@ -111,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668941113825</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bankaccout">
+      <created>1669037585021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669037585021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="studentdatabase" />
-    <option name="LAST_COMMIT_MESSAGE" value="studentdatabase" />
+    <MESSAGE value="bankaccout" />
+    <option name="LAST_COMMIT_MESSAGE" value="bankaccout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
